@@ -1,11 +1,14 @@
-/* 
-
-    You can write your own styles here...
+.card-number{
+    background : #2B2929;
+    margin : 20px;
+    height :90px;
+    width :90px;
+    border-radius :20px
+}
+.card-number-1{
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+    margin : 20px;
+    height :90px;
+    width :90px;
+    border-radius :20px
+}
